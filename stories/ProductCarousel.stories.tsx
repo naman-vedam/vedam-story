@@ -1,4 +1,3 @@
-// ProductCarousel.stories.tsx
 "use client"
 
 import React from "react"

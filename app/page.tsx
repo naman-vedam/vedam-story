@@ -19,7 +19,7 @@ export default function Home() {
         "Track your fitness goals with our advanced smartwatch. Monitor heart rate, sleep patterns, and stay connected with smart notifications.",
     },
     {
-      id: 3,
+      id: 4,
       name: "Professional Camera Lens",
       price: "$599.99",
       image: "https://www.vedam.org/_next/image?url=%2Fimg%2Fhear_from_founder_thumbnail.jpeg&w=3840&q=75",
