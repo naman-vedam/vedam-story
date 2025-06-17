@@ -1,4 +1,4 @@
-import ProductCarousel from "@/components/product-carousel"
+import ProductCarousel from "@/src/components/product-carousel"
 
 export default function Home() {
   const products = [
